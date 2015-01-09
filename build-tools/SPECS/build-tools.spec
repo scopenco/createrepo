@@ -36,4 +36,4 @@ rm -rf $RPM_BUILD_ROOT
 
 %changelog
 * Fri Jan 9 2015 Andrey Scopenco <andrey@scopenco.net> - 1.4-1
-- 1.0.0 release
+- 1.4 release
