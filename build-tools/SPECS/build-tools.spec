@@ -35,5 +35,5 @@ rm -rf $RPM_BUILD_ROOT
 %{_datadir}/%{name}
 
 %changelog
-* Fri Jan 9 2015 Andrey Scopenco <andrey@scopenco.net> - 1.0.0-1
+* Fri Jan 9 2015 Andrey Scopenco <andrey@scopenco.net> - 1.4-1
 - 1.0.0 release
