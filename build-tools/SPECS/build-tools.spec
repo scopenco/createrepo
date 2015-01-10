@@ -1,3 +1,5 @@
+# vim: ft=spec
+
 Summary: Tools for build creation
 Name: build-tools
 Version: 1.4
