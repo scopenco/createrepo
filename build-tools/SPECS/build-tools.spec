@@ -2,7 +2,7 @@
 
 Summary: Tools for build creation
 Name: build-tools
-Version: 1.4.1
+Version: 1.4.2
 Release: 1
 Packager: Andrey Scopenco <andrey@scopenco.net>
 License: GPL
@@ -48,6 +48,8 @@ rm -rf $RPM_BUILD_ROOT
 %{_datadir}/%{name}/*.sh
 
 %changelog
+* Tue Feb 3 2015 Andrey Scopenco <andrey@scopenco.net> - 1.4.2-1
+- update to 1.4.2
 * Fri Jan 16 2015 Andrey Scopenco <andrey@scopenco.net> - 1.4.1-1
 - update to 1.4.1
 * Sat Jan 10 2015 Andrey Scopenco <andrey@scopenco.net> - 1.4-2
